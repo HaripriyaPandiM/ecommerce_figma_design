@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This project presents a complete UI/UX design of a modern e-commerce website created using **Figma**.  
-The design focuses on intuitive navigation, clear visual hierarchy, and a smooth end-to-end shopping experience.
+The design focuses on intuitive navigation, clean visual hierarchy, and a smooth end-to-end shopping experience.
 
 ## 🎯 Project Objectives
 - Design a user-friendly e-commerce interface
@@ -35,40 +35,37 @@ The design focuses on intuitive navigation, clear visual hierarchy, and a smooth
 ## 🖼️ Design Preview
 
 ### Home Page
-![Home Page](designs/Home.png)
+![Home Page](design/Home.png)
 
 ### Categories Page
-![Categories Page](designs/Categories.png)
+![Categories Page](design/Categories.png)
 
 ### Product Listing Page
-![Product Listing Page](designs/Product%20Listing.png)
+![Product Listing Page](design/Product%20Listing.png)
 
 ### Product Details Page
-![Product Details Page](designs/Product%20Details.png)
+![Product Details Page](design/Product%20Details.png)
 
 ### Festive Sale Page
-![Festive Sale Page](designs/Festive%20Sale.png)
+![Festive Sale Page](design/Festive%20Sale.png)
 
 ### Cart Page
-![Cart Page](designs/Cart.png)
+![Cart Page](design/Cart.png)
 
 ### Checkout Page
-![Checkout Page](designs/Checkout.png)
+![Checkout Page](design/Checkout.png)
 
 ### Payment Page
-![Payment Page](designs/Payment.png)
+![Payment Page](design/Payment.png)
 
 ### Order Confirmation Page
-![Order Confirmation Page](designs/Order%20Confirmation.png)
+![Order Confirmation Page](design/Order%20Confirmation.png)
 
 ### User Profile Page
-![User Profile Page](designs/User%20Profile.png)
+![User Profile Page](design/User%20Profile.png)
 
 ### Signup Page
-![Signup Page](designs/signup.png)
+![Signup Page](design/signup.png)
 
 ## 📄 Note
 This repository contains **UI/UX design assets only** and does not include frontend development code.
-
-
-
