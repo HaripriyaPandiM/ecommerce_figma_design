@@ -35,37 +35,37 @@ The design focuses on intuitive navigation, clean visual hierarchy, and a smooth
 ## 🖼️ Design Preview
 
 ### Home Page
-![Home Page](design/Home.png)
+![Home Page](https://raw.githubusercontent.com/HaripriyaPandiM/ecommerce_figma_design/refs/heads/main/Home.png)
 
 ### Categories Page
-![Categories Page](design/Categories.png)
+![Categories Page](https://github.com/HaripriyaPandiM/ecommerce_figma_design/blob/main/Categories.png?raw=true)
 
 ### Product Listing Page
-![Product Listing Page](design/Product%20Listing.png)
+![Product Listing Page](https://github.com/HaripriyaPandiM/ecommerce_figma_design/blob/main/Product%20Listing.png?raw=true)
 
 ### Product Details Page
-![Product Details Page](design/Product%20Details.png)
+![Product Details Page](https://github.com/HaripriyaPandiM/ecommerce_figma_design/blob/main/Product%20Details.png?raw=true)
 
 ### Festive Sale Page
-![Festive Sale Page](design/Festive%20Sale.png)
+![Festive Sale Page](https://github.com/HaripriyaPandiM/ecommerce_figma_design/blob/main/Festive%20Sale.png?raw=true)
 
 ### Cart Page
-![Cart Page](design/Cart.png)
+![Cart Page](https://github.com/HaripriyaPandiM/ecommerce_figma_design/blob/main/Cart.png?raw=true)
 
 ### Checkout Page
-![Checkout Page](design/Checkout.png)
+![Checkout Page](https://github.com/HaripriyaPandiM/ecommerce_figma_design/blob/main/Checkout.png?raw=true)
 
 ### Payment Page
-![Payment Page](design/Payment.png)
+![Payment Page](https://github.com/HaripriyaPandiM/ecommerce_figma_design/blob/main/Payment.png?raw=true)
 
 ### Order Confirmation Page
-![Order Confirmation Page](design/Order%20Confirmation.png)
+![Order Confirmation Page](https://github.com/HaripriyaPandiM/ecommerce_figma_design/blob/main/Order%20Confirmation.png?raw=true)
 
 ### User Profile Page
-![User Profile Page](design/User%20Profile.png)
+![User Profile Page](https://github.com/HaripriyaPandiM/ecommerce_figma_design/blob/main/User%20Profile.png?raw=true)
 
 ### Signup Page
-![Signup Page](design/signup.png)
+![Signup Page](https://github.com/HaripriyaPandiM/ecommerce_figma_design/blob/main/signup.png)
 
 ## 📄 Note
 This repository contains **UI/UX design assets only** and does not include frontend development code.
